@@ -437,7 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Contact
 
 **Developer:** Fayssal AB  
-**Email:** fayssal.ab@example.com  
+**Email:** fayssal.abaibat@emsi-edu.ma  
 **GitHub:** [@fayssal-ab](https://github.com/fayssal-ab)  
 **Project Link:** [https://github.com/fayssal-ab/security-app](https://github.com/fayssal-ab/security-app)
 
